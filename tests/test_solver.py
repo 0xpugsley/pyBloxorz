@@ -1,5 +1,4 @@
 from functools import partial
-from tkinter import RIGHT
 from typing import List, Tuple
 
 import pytest
